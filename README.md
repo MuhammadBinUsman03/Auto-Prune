@@ -5,7 +5,7 @@
      <a href="https://huggingface.co/Muhammad2003/">Hugging Face</a> • 
      <a href="https://medium.com/@muhammadbinusman03">Medium</a> • 
   </p>
-   <p><em>Simplify LLM evaluation using a convenient Colab notebook.</em></p>
+   <p><em>simplifies the process of pruning LLMs using a convenient Colab notebook.</em></p>
    <a href="https://colab.research.google.com/drive/1-stRWrVsrglkjtE8dRorjQZL00wANR58?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a></center>
 </div>
 <br/>
